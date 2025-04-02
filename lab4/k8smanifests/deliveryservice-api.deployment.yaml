@@ -24,4 +24,4 @@ spec:
           protocol: TCP
         env:
         - name: DB_URL
-          value: bigquery://ada2025-449714/deliverydb  # use your project id/ bigquery db url
+          value: bigquery://eco-limiter-450210-v7/deliverydb  # use your project id/ bigquery db url
